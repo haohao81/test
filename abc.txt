@@ -1,3 +1,8 @@
 update
+<<<<<<< HEAD
 upate ver3 sdhbsh jdfhjsd jkasndk
 version control
+=======
+upate ver 2 hdsgdh shdjsad kjhdskj
+hdfjsf
+>>>>>>> kkk
